@@ -1,0 +1,1 @@
+cout<<c.lotteryletter<<endl;
