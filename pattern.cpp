@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     int n;
+    cout<<"this version 2.0"<<endl;
     cout <<"enter the number of times the pattern is to be repeated"<<endl;
     cin>>n;
     cout<<"the required pattern is as fallows"<<endl;
